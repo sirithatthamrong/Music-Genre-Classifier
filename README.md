@@ -1,2 +1,2 @@
 # Gesture-Recognition
-Gesture Recognition: Rock, Paper Scissor 
+Gesture Recognition: Rock, Paper, Scissor 
