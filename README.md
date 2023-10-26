@@ -1,2 +1,2 @@
-# Hand-Gesture-Recognition
+# Hand Gesture Recognition
 Gesture Recognition: Rock, Paper, Scissor 
